@@ -1,3 +1,5 @@
+// PhotoSwipe
+initPhotoSwipeFromDOM('.my-gallery');
 
 $(function() {
 
