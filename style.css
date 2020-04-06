@@ -128,7 +128,7 @@ li {
 #gnav {
   padding: 10px;
   font-family: 'Cormorant Garamond', serif;
-
+  position: fixed;
   z-index: 100;
 }
 
